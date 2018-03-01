@@ -1,3 +1,4 @@
+/*Navigation Bar*/
 ul 
 {
     list-style-type: none;
@@ -54,6 +55,7 @@ h1
 	font-family: "Courier New", Courier, monospace;
 }
 
+/* Lets your image stick to the left of your text. */
 .left
 {
     float: left;
@@ -68,6 +70,7 @@ h1
 	clear: left;
 }
 
+/* Bottom Pictures for Suspected Victims */
 #first
 {
 	margin: 15px 25px 15px 150px;
